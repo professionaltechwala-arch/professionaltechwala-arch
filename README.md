@@ -117,6 +117,7 @@ Not learning from a list. Building things that force me to figure these out.
 - 🐧 **Enthusiastic about Linux Administration and Shell Automation**.
 
 <br/>
+
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
@@ -157,5 +158,7 @@ Not learning from a list. Building things that force me to figure these out.
    ▼
 🔁 Repeat forever. Never stop shipping.
 ```
+
 ---
+
 📫 **How to reach me:** [LinkedIn](https://linkedin.com)
