@@ -1,4 +1,4 @@
-![Header](https://vercel.app)
+# Hi, I'm Raushan Kumar! 👋
 
 ### 🚀 About Me
 - 🔭 I recently built a **Web-based ATM Simulation** using Shell Scripting and Apache.
@@ -12,16 +12,12 @@
 ![C++](https://shields.io)
 ![Java](https://shields.io)
 ![Python](https://shields.io)
-![Shell Script](https://shields.io)
-
-### 🧠 Core Competencies
-![DSA](https://shields.io)
-![Web Scraping](https://shields.io)
-![Linux](https://shields.io)
+![Shell](https://shields.io)
 
 **Web & Tools:**
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
+![Linux](https://shields.io)
 
 ### 📈 Activity
 - 💻 I am currently automating Linux tasks using **Shell Scripts**.
