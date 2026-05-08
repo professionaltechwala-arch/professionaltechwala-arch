@@ -22,7 +22,6 @@
 **Web & Tools:**
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
-![Linux](https://shields.io)
 
 ### 📈 Activity
 - 💻 I am currently automating Linux tasks using **Shell Scripts**.
